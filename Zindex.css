@@ -1,0 +1,47 @@
+div{
+    position:relative
+}
+img{
+    position:absolute
+}
+#id1{
+    left: 50px;
+    top:50px
+}
+#id2{
+    left: 100px;
+    top:100px;
+}
+#id3{
+    left: 150px;
+    top:150px
+}
+#id4{
+    left: 200px;
+    top:200px
+}
+#id5{
+    left: 250px;
+    top:250px;
+    z-index: 45;
+}
+#id6{
+    left: 280px;
+    top:280px
+}
+#id7{
+    left: 330px;
+    top:330px
+}
+#id8{
+    left: 410px;
+    top:410px
+}
+#id9{
+    left: 450px;
+    top:450px
+}
+#id10{
+    left: 500px;
+    top:500px
+}

@@ -1,0 +1,55 @@
+.parent{
+    background-color:rgb(37, 178, 37);
+    height: 100vh;
+}
+
+.head{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    color: white;
+}
+.icon{
+    padding-top: 15px;
+}
+.attributes{
+    display: flex;
+}
+.text1{
+     padding-right:20px ;
+}
+.text2{
+    padding-right:20px ;
+}
+.text3{
+    padding-right:20px ;
+}
+.text4{
+    padding-right:20px ;
+}
+.text5{
+    padding-right:20px ;
+}
+button{
+    border-radius: 20px;
+    padding: px;
+    width: 150px;
+}
+img{
+    width: 200px;
+}
+.body{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 200px;
+    color: white;
+}
+span{
+    color: aqua;
+}
+.download{
+    padding: 10px;
+    color: green;
+}
+

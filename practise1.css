@@ -1,0 +1,39 @@
+
+*{
+    padding: 0;
+    /* margin: 0; */
+}
+   
+.card{
+    width:285px;
+    border: 3px solid rgb(219, 216, 216);
+    padding:1.5rem
+    border-radius: 5px;
+
+}
+.card-body{
+    text-align: center;
+    background-color:white;
+    text-align: center;
+}
+img{
+    padding: 2px;
+    border-top: 10px;
+    margin-top: 0px;
+    border-top:2px solid blue;
+    margin-left: 0px;
+    background-color: blue;
+    padding:30px;
+    border-radius: 10px;
+    
+
+}
+.card-title{
+    background-color: white;
+
+}
+.card-text{
+    background-color: white;
+    text-transform: lowercase;
+    color:cadetblue;
+}
